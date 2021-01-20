@@ -41,19 +41,19 @@ var APP_DATA = {
           "yaw": -0.007461031568119836,
           "pitch": -0.021931735006603503,
           "title": "AgIntro",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GZ2fkI-tfGB-TzMMzHbiQCcdvCyKWhZ1/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": 3.0126593245355178,
           "pitch": 0.29622816302962107,
           "title": "AgClassroom1",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GMlpWcv5ikMIlOuYy9gHOPpVbk-pumkp/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": -2.61795303215305,
           "pitch": 0.24842065183037398,
           "title": "AgClassroom2",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GMR7-9GN4tUXoPLlPv6FrNlgcb7xKCOY/preview" width="640" height="480"></iframe>"
         }
       ]
     },
@@ -104,31 +104,31 @@ var APP_DATA = {
           "yaw": 1.030187916091581,
           "pitch": 0.00889740533384753,
           "title": "AgShop1",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GET3b26loKJi8AnGOp9BoRFhbBIOe2YE/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": -1.8071906921657899,
           "pitch": -0.025982658178788753,
           "title": "AgShop2",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GS_NpYChtzlSRhPc7SCZGcCu7sAfZBc_/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": -0.7292266710875275,
           "pitch": 0.0035628093780353254,
           "title": "AgShop3",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GRUQc4kZM29QjY3DD7-Uho8sy5bmxSjd/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": 0.20197980511259672,
           "pitch": -0.009345755155591107,
           "title": "AgShop4",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GUZrQu943yzEMNLz-3iXO4KHNtyhgwkY/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": 2.097997450198698,
           "pitch": -0.027689163862589794,
           "title": "AgShop5",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GRGY5SftEs1M9sdv0cihX4OPXHrpDLKo/preview" width="640" height="480"></iframe>"
         }
       ]
     },
@@ -173,13 +173,13 @@ var APP_DATA = {
           "yaw": 2.0308857202049238,
           "pitch": 0.006951179012020248,
           "title": "AgGreenhouse1",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GUijDRETM__lwereCx-x7SWhgmhAghh2/preview" width="640" height="480"></iframe>"
         },
         {
           "yaw": 0.918671242301139,
           "pitch": 0.019276048652226763,
           "title": "AgGreenhouse2",
-          "text": "Text"
+          "text": "<iframe src="https://drive.google.com/file/d/1GWr84e8rj7NvbWVpLkpESaMDiMxMXfNP/preview" width="640" height="480"></iframe>"
         }
       ]
     }
