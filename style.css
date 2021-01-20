@@ -468,7 +468,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover {
-  width: 640px;
+  width: 260px;
   border-radius: 5px;
   -webkit-transition: width 0.3s ease-in-out,
                       border-radius 0.3s ease-in-out;
@@ -548,7 +548,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-close-wrapper {
   position: absolute;
-  left: 260px;
+  left: 640px;
   top: 0;
   height: 40px;
   width: 40px;
