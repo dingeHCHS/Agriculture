@@ -550,8 +550,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   position: absolute;
   left: 260px;
   top: 0;
-  height: 480px;
-  width: 640px;
+  height: 40px;
+  width: 40px;
   border-top-right-radius: 5px;
   background-color: rgb(78,88,104);
   visibility: hidden;
@@ -594,7 +594,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-text {
   position: absolute;
-  width: 300px;
+  width: 640px;
   height: auto;
   max-height: 200px;
   top: 40px;
