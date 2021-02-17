@@ -548,8 +548,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-close-wrapper {
   position: absolute;
-  left: 260px;
-  top: -240px;
+  left: 340px;
+  top: -320px;
   height: 40px;
   width: 40px;
   border-top-right-radius: 5px;
