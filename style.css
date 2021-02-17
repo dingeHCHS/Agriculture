@@ -611,7 +611,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   transform: perspective(200px) rotateX(-89.999deg);
   -ms-transform-origin: 50% 0 0;
   -webkit-transform-origin: 50% 0 0;
-  transform-origin: 50% 0 0;
+  transform-origin: center center;
   -webkit-transition: -ms-transform 0.3s,
                       -webkit-transform 0.3s,
                       transform 0.3s,
