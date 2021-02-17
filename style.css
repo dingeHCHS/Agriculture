@@ -597,7 +597,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 640px;
   height: 480px;
   max-height: 1080px;
-  top: 320px;
+  top: -320px;
   left: -240px;
   padding: 10px;
   background-color: rgb(58,68,84);
